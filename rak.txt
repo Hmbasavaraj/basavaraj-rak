@@ -3,3 +3,6 @@ i am basavaraj
 
 this is devops
 practising git
+
+tracked 
+untracked
